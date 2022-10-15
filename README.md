@@ -3,8 +3,8 @@
 
 Welcome to currency exchange with SwiftUI+MVVM+COREDATA
 
-<img src="https://github.com/herarya/currency-exchange-swiftui/blob/main/ss/1.png" width="100">
-<img src="https://github.com/herarya/currency-exchange-swiftui/blob/main/ss/2.png" width="100">
+<img src="https://github.com/herarya/exchangerate-swiftUI/blob/main/ss/1.png" width="100">
+<img src="https://github.com/herarya/exchangerate-swiftUI/blob/main/ss/2.png" width="100">
 
 # Folder Structure
 
