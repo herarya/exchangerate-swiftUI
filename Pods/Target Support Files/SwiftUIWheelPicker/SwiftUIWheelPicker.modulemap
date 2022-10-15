@@ -1,0 +1,6 @@
+framework module SwiftUIWheelPicker {
+  umbrella header "SwiftUIWheelPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
