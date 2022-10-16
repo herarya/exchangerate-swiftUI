@@ -5,8 +5,7 @@ Welcome to currency exchange with SwiftUI + clean code MVVM Pattern + CoreData
 
 | Ligth | Dark Mode   | GIF    |
 | :---:   | :---: | :---: |
-| <img src="https://github.com/herarya/exchangerate-swiftUI/blob/main/ss/1.png" width="150"> | <img src="https://github.com/herarya/exchangerate-swiftUI/blob/main/ss/2.png" width="150">
-   | <img src="https://github.com/herarya/exchangerate-swiftUI/blob/main/ss/ECA956FA-A78E-414B-8870-D37D52547774.gif" width="150">   |
+| <img src="https://github.com/herarya/exchangerate-swiftUI/blob/main/ss/1.png" width="150"> | <img src="https://github.com/herarya/exchangerate-swiftUI/blob/main/ss/2.png" width="150"> | <img src="https://github.com/herarya/exchangerate-swiftUI/blob/main/ss/ECA956FA-A78E-414B-8870-D37D52547774.gif" width="150"> |
 
 
 UI Inspiration https://dribbble.com/shots/5180586-Currency-exchange
